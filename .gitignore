@@ -1,0 +1,15 @@
+# Documentos editables de Word (solo se versiona el PDF final)
+*.docx
+*.doc
+*.dotx
+~$*
+
+# Carpetas de borradores, versiones o backups
+drafts/
+borradores/
+versiones/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
