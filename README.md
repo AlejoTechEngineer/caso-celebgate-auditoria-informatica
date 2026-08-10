@@ -112,7 +112,9 @@ flowchart TD
     F --> G[Pérdida económica]
     F --> H[Transparencia como principio de seguridad]
     F --> I[Rol de la auditoría informática]
-    G & H & I --> J[Recomendaciones y Conclusiones]
+    G --> J[Recomendaciones y Conclusiones]
+    H --> J
+    I --> J
 ```
 
 ---
